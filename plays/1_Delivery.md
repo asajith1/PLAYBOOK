@@ -4,6 +4,7 @@ Agile teams are biased to action and are constantly seeking ways to deliver more
 
 > Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
+
 > Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
 > Simplicity--the art of maximizing the amount of work not done--is essential.

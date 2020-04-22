@@ -1,5 +1,5 @@
 
-# The plays
+# The plays.
 
 These plays and practices are intended to be used as reference.  Plays describe valuable patterns that we believe agile teams should broadly consider. Within many plays, we describe practices that teams can do to turn the plays into action.
 

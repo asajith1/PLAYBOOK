@@ -1,4 +1,4 @@
-# An Agile Delivery Model
+# An Agile Delivery Model 
 
 ![Our Agile Delivery Model](https://raw.githubusercontent.com/booz-allen-hamilton/agile-playbook/master/graphics/04.031.16_Agile_Model.png)
 
@@ -22,7 +22,7 @@ This is a dominant focus area during a project’s _first several days_ (but no 
 
 #### Prepare
 
-Once we are clear on who we are and what we’re here to do, the team needs to come together to get a look ahead, and prepare enough to get started.
+Once we are clear on who we are and what we’re here to do, the team needs to come together to get a look ahead, and prepare just enough to get started.
 
 With this focus, we build, estimate, and groom our Product Backlog. We put some thought into architecture. We sketch out a few sprints’ worth of work—three months or so. Here, we’re trying to understand the things we will do soon. We accept that we are fuzzy on things we’ll be doing a few months from now, and that time spent planning these things now is possibly waste. Because software development is primarily highly-creative knowledge work, we have to do it to understand it. We continually discover. It is difficult to pull together a 12-month master schedule – if we did, it would probably be wrong in a matter of days. We embrace this truth instead of fighting it.
 
